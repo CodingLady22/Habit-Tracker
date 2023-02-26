@@ -6,7 +6,14 @@ This app helps the user develop and maintain positive habits by providing a way 
 
 Live link: 
 
-![image]()
+Currently working on the UI in figma
+
+<img width="602" alt="Screen Shot 2023-02-15 at 6 47 51 PM" src="https://user-images.githubusercontent.com/99496129/219113415-639a9eb0-27d7-403c-9560-07fb31f74b9f.png">
+<img width="826" alt="Screen Shot 2023-02-15 at 7 00 47 PM" src="https://user-images.githubusercontent.com/99496129/219114269-1b4e6bce-07c4-4f59-ad7d-d9ba1466501f.png">
+
+
+
+
 
 ### How it's made
 This is a full-stack application using the following:
