@@ -35,6 +35,18 @@ This is a full-stack application using the following:
 * A visual representation of progress, such as a calendar or graph, to help a user see their progress over time.
 
 
+### How to install
+Fork repo, clone and install dependencies:
+```
+npm install
+```
+To run:
+```
+npm start
+```
+
+- Remeber to create your own .env file
+
 <!-- MARKDOWN LINKS & IMAGES -->
 
 [Node.js]: https://img.shields.io/badge/Node.js-233056?style=flat&logo=nodedotjs&logoColor=339933
